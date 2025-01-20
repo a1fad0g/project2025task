@@ -1,0 +1,6 @@
+# Основные зависимости
+flask
+flask-sqlalchemy
+flask-cors
+psycopg2-binary
+prometheus-flask-exporter
